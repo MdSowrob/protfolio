@@ -88,6 +88,7 @@ margin-bottom: 50%;
   z-index: 1;
    background-size: cover;
    background-image:url(bg.png);
+   Background-position : center center;
    background-repeat:no-repeat;
 }
 #namelogo{
